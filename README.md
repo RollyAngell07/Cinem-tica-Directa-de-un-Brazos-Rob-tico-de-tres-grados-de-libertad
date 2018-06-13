@@ -1,1 +1,1 @@
-# Cinem-tica-Directa-de-un-Brazos-Rob-tico-de-tres-grados-de-libertad
+# Cinemática Directa de un Brazos Robótico de tres grados de libertad
